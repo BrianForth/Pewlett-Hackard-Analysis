@@ -9,9 +9,11 @@ Using SQL with Postgres, 6 csv files were analyzed to find how many employees wi
 Pewlett Hackard can expect to suffer a significant setback from loss of institutional knowledge in the coming years. Over 1/3 of all PH employees will be reaching retirement age in the next 3 years.
 
 Total PH Employees by Title
+
 ![total_titles](Data/total_titles.png)
 
 PH Employees Entering Retirement Age In the Next Three Years
+
 ![retirement_titles](Data/retirement_titles.png)
 
 - In most categories, roughly 1/3 of employees will be eligibile for retirement in the next 3 years

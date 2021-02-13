@@ -17,7 +17,7 @@ PH Employees Entering Retirement Age In the Next Three Years
 ![retirement_titles](Data/retirement_titles.png)
 
 - In most categories, roughly 1/3 of employees will be eligibile for retirement in the next 3 years
--- For Staff, Engineer, and Assitant Engineer positions, that number is almost 1/2
+- For Staff, Engineer, and Assitant Engineer positions, that number is almost 1/2
 - Curiously, less than 1% of current employees were born in 1965. If the mentorship program relies on employees born in this year alone to offset the loss of retiring employees, it will be grossly wanting.
 - PH will need a significant external hiring push to offset this loss.
 
